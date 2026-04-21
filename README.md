@@ -130,7 +130,7 @@ This visualization helps identify:
 <table>
 <tr>
 <td width="60%">
-<img src="assets/signal.png" width="100%">
+<img src="assets/signal_new.png" width="100%">
 </td>
 <td width="40%">
 
