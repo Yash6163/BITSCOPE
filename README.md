@@ -63,6 +63,131 @@ The project is built as a modular pipeline, separating data acquisition from mod
 
 ---
 
+---
+
+## 📊 Output Demonstration
+
+BITSCOPE processes real-time market data, technical indicators, and sentiment signals to generate actionable trading insights.  
+Below are key outputs from different stages of the system:
+
+---
+
+### 1. Market Intelligence Dashboard
+
+<table>
+<tr>
+<td width="60%">
+<img src="assets/dashboard.png" width="100%">
+</td>
+<td width="40%">
+
+**Live Market Overview**
+
+- Real-time BTC/USD price tracking  
+- RSI (Relative Strength Index)  
+- Market sentiment score  
+- ATR-based volatility estimation  
+
+This dashboard provides a **quick snapshot of market conditions**, helping traders understand current momentum and risk.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 2. Technical Analysis Visualization
+
+<table>
+<tr>
+<td width="60%">
+<img src="assets/chart.png" width="100%">
+</td>
+<td width="40%">
+
+**Multi-Indicator Analysis**
+
+- Candlestick price movement  
+- Bollinger Bands for volatility  
+- RSI trend tracking  
+- MACD crossover signals  
+- Sentiment overlay  
+
+This visualization helps identify:
+
+- Trend direction  
+- Overbought / oversold zones  
+- Momentum shifts  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 3. AI Trading Signal
+
+<table>
+<tr>
+<td width="60%">
+<img src="assets/signal.png" width="100%">
+</td>
+<td width="40%">
+
+**Model Prediction Output**
+
+- AI-generated trade signal (**SHORT / LONG**)  
+- Confidence score  
+- Indicator confirmations (RSI, MACD, Sentiment)  
+
+Example:
+- RSI → Neutral  
+- MACD → Bullish crossover  
+- Sentiment → Neutral  
+
+➡️ Final Decision: **Short Signal (Downward Trend)**  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 4. Model Training Results
+
+<table>
+<tr>
+<td width="60%">
+<img src="assets/training.png" width="100%">
+</td>
+<td width="40%">
+
+**Model Performance Metrics**
+
+- Best hyperparameters from GridSearchCV  
+- Cross-validation accuracy  
+- Test accuracy  
+- Precision / Recall / F1-score  
+
+Example Results:
+- Test Accuracy: **62.5%**  
+- Model: **XGBoost Classifier**  
+
+Model artifacts saved:
+- `bitscope_xgb.pkl`  
+- `bitscope_scaler.pkl`  
+
+</td>
+</tr>
+</table>
+
+---
+
+### 5. Pipeline Execution Flow
+
+```bash
+price_fetcher.py → news_scraper.py → process_data.py → train_model.py → streamlit run app.py
+
 ## 🏁 Getting Started
 
 ### Installation
