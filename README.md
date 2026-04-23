@@ -3,6 +3,8 @@
 <b>Advanced Bitcoin Sentiment Correlation & Price Estimation System</b>
 </p>
 
+<p align="center">
+
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FinBERT-ffcc00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/Model-XGBoost-0C7BDC?style=for-the-badge"/>
@@ -14,6 +16,8 @@
 <img src="https://img.shields.io/badge/Task-Price%20Prediction-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Domain-Cryptocurrency-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge"/>
+
+<p align="center">
 
 </p>
 ---
