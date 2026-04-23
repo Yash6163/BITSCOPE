@@ -9,3 +9,4 @@ bs4
 scikit-learn
 xgboost
 streamlit
+nltk

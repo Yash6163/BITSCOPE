@@ -1,4 +1,4 @@
-<h1 align="center">BITSCOPE ₿</h1>
+<h1 align="center">BitScope ₿</h1>
 <p align="center">
 <b>Advanced Bitcoin Sentiment Correlation & Price Estimation System</b>
 </p>
@@ -23,7 +23,7 @@
 
 ## Overview
 
-**BITSCOPE** is a financial intelligence tool designed to quantify the "fear and greed" of the cryptocurrency market. By scraping real-time news and social data and processing it through specialized **Natural Language Processing (NLP)** models, BITSCOPE correlates public sentiment with Bitcoin price movements to provide actionable insights.
+**BitScope** is a financial intelligence tool designed to quantify the "fear and greed" of the cryptocurrency market. By scraping real-time news and social data and processing it through specialized **Natural Language Processing (NLP)** models, BITSCOPE correlates public sentiment with Bitcoin price movements to provide actionable insights.
 
 Unlike general sentiment tools, BITSCOPE is optimized for financial vocabulary, allowing it to detect subtle market signals that standard models miss.
 
