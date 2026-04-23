@@ -5,7 +5,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 <img src="https://img.shields.io/badge/FinBERT-Sentiment-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XGBoost-Regressor-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
